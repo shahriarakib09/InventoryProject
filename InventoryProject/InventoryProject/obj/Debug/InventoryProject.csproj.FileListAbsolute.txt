@@ -1,0 +1,5 @@
+C:\Users\akib\source\repos\InventoryProject\InventoryProject\bin\Debug\InventoryProject.dll
+C:\Users\akib\source\repos\InventoryProject\InventoryProject\bin\Debug\InventoryProject.pdb
+C:\Users\akib\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\akib\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.dll
+C:\Users\akib\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb

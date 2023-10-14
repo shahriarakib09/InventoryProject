@@ -1,0 +1,8 @@
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\bin\Debug\InventoryProjectCaller.exe.config
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\bin\Debug\InventoryProjectCaller.exe
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\bin\Debug\InventoryProjectCaller.pdb
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\obj\Debug\InventoryProjectCaller.Properties.Resources.resources
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\obj\Debug\InventoryProjectCaller.csproj.GenerateResource.cache
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\obj\Debug\InventoryProjectCaller.csproj.CoreCompileInputs.cache
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\obj\Debug\InventoryProjectCaller.exe
+C:\Users\akib\source\repos\InventoryProject\InventoryProjectCaller\obj\Debug\InventoryProjectCaller.pdb
